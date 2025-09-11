@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhxryya
+- 👋 Hi, I’m DHAIRYA TIWARI
 - 👀 I’m interested in capture things in my camera eye
 - 🌱 I’m currently learning DSA in c++
 - 💞️ I’m looking to collaborate on daily work projects
