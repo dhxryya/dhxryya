@@ -1,4 +1,4 @@
-Hello MY Name is Dhairya Tiwari 
+
 <h1 align="center">Hi 👋, I'm Dhairya Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from INDIA</h3>
 
