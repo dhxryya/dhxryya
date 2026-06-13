@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tdhairya507@gmail.com**
 
-- ⚡ Fun fact **I easily understand problems in easy wayy!!**
+- ⚡ Fun fact **I easily understand complex problems in easy wayy!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
